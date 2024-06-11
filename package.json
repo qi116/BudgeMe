@@ -1,0 +1,26 @@
+{
+  "name": "Hello_World_Hackathon",
+  "version": "1.0.0",
+  "description": "<img width=\"795\" alt=\"BudgeMeLogo\" src=\"https://user-images.githubusercontent.com/83851807/133906163-34246d26-b4ca-4ff4-a8a2-62497e57491c.png\">",
+  "main": "Functions.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "chart.js": "^3.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qi116/Hello_World_Hackathon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qi116/Hello_World_Hackathon/issues"
+  },
+  "homepage": "https://github.com/qi116/Hello_World_Hackathon#readme"
+}

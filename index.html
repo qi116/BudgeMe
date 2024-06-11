@@ -9,6 +9,24 @@
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart.min.js"></script>
 	<link rel="stylesheet" type="text/css" href="./main.css">
 	<script src="Functions.js"></script>
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js">  </script>
+	<script>
+	      $(document).ready(function(){
+	        var user,pass;
+	        $("#submit").click(function(){
+	          user=$("#user").val();
+	          pass=$("#password").val();
+	          $.post("http://localhost:8000/login",{user: user,password: pass}, function(data){
+	            if(data === 'yes') {
+	                alert("login success");
+	            }
+	            else{
+	            	alert("failed");
+	            }
+	          });
+	        });
+	      });
+	    </script>
 </head>
 
 <body style="background-color:#525456; ;">
@@ -173,7 +191,17 @@
 		</div>
 		<div>
 		<!--<span id="currencyTag">  <span>-->
-		
+		<!-- testing form-->
+
+		<form>
+        	<input type="text" name="user" placeholder="Username" id ="user">
+        	<input type="password" name="password" placeholder="Password" id="password">
+             
+        	<button type="button" name="submit" id="submit">
+            calculator
+        	</button>
+    	</form>
+
 	</div>
 	<!-- About us modal -->
 	<div class="modal fade" id="AboutUsModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -250,7 +278,7 @@
 			frameworks.push(spendingPercentage[key][0]);
 			spending.push(spendingPercentage[key][1].toFixed(2));
 		});
-		console.log(spending);
+		//console.log(spending);
 
 		var myChart = new Chart(ctx, {
 			type: "pie",
@@ -293,5 +321,6 @@
 		});
 	}
 	chart();
+
 </script>
 </html>

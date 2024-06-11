@@ -1,0 +1,422 @@
+[33mcommit 32e8ec94a2e1818f175ad2f09e816349dd1615ff[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: ColtScott <coltonscott0@yahoo.com>
+Date:   Sat Sep 18 21:46:05 2021 -0400
+
+    about us
+
+[33mcommit 4c59dd0a4e612aa7f5279d4635a70d6d45a77ebf[m
+Author: qi116 <qi116@purdue.edu>
+Date:   Sat Sep 18 21:34:55 2021 -0400
+
+    Added About Us Modal
+
+[33mcommit 49eea994c2a858877e26844316f3765fe4e136d3[m
+Author: ColtScott <coltonscott0@yahoo.com>
+Date:   Sat Sep 18 21:23:49 2021 -0400
+
+    final font adjust
+
+[33mcommit 5e5c1b71d3881c0d7557a40536cbbf7c126c2378[m
+Author: qi116 <qi116@purdue.edu>
+Date:   Sat Sep 18 21:08:52 2021 -0400
+
+    added budget parameters
+
+[33mcommit 52b001c18b6f911be200d75ceec18fb0e0d1613c[m
+Author: ColtScott <coltonscott0@yahoo.com>
+Date:   Sat Sep 18 21:07:58 2021 -0400
+
+    background change
+
+[33mcommit d2c27b253b9985df25f376259be4c1725a219f53[m
+Author: ColtScott <coltonscott0@yahoo.com>
+Date:   Sat Sep 18 21:03:52 2021 -0400
+
+    font changes again
+
+[33mcommit b85383be509d1112c869d8ea95dee95f7fc6e87d[m
+Author: qi116 <qi116@purdue.edu>
+Date:   Sat Sep 18 21:02:28 2021 -0400
+
+    added budget calculation
+
+[33mcommit 504b655acdbe48e32535b7e93d65abdf5f3f734d[m
+Author: ColtScott <coltonscott0@yahoo.com>
+Date:   Sat Sep 18 20:52:18 2021 -0400
+
+    changed fonts
+
+[33mcommit 18db5def7e1351ae32d36a52209449b81a857b89[m
+Merge: c35b56c 59c0596
+Author: qi116 <qi116@purdue.edu>
+Date:   Sat Sep 18 20:29:18 2021 -0400
+
+    Merge branch 'main' of https://github.com/qi116/Hello_World_Hackathon into main
+
+[33mcommit c35b56cef7aafa8e66923be721b25287160c3b6b[m
+Author: qi116 <qi116@purdue.edu>
+Date:   Sat Sep 18 20:24:52 2021 -0400
+
+    bug fixing and saving budget value
+
+[33mcommit 59c05966be31391c273da6428f5a9b99408e233e[m
+Author: coltscott <83851807+coltscott@users.noreply.github.com>
+Date:   Sat Sep 18 20:15:56 2021 -0400
+
+    Update README.md
+
+[33mcommit 5a2e2530fa82a5e8ee6d0690ef5096564c5e4fc0[m
+Author: coltscott <83851807+coltscott@users.noreply.github.com>
+Date:   Sat Sep 18 20:14:46 2021 -0400
+
+    Added on to readme
+
+[33mcommit 91d878f9023be78a13b270c73535954dfe075ef6[m
+Merge: 4b13fbd 904dd51
+Author: qi116 <qi116@purdue.edu>
+Date:   Sat Sep 18 18:16:52 2021 -0400
+
+    fixing css file
+
+[33mcommit 4b13fbd475058ea3e1df6092095a1422cd157681[m
+Author: qi116 <qi116@purdue.edu>
+Date:   Sat Sep 18 18:10:14 2021 -0400
+
+    merging
+
+[33mcommit 904dd514797946ea192a0c4c5324ff22536635b7[m
+Author: ColtScott <coltonscott0@yahoo.com>
+Date:   Sat Sep 18 18:09:18 2021 -0400
+
+    format
+
+[33mcommit 3b9fac907fcc0bfbc4af95ee45b64671bf3879e6[m
+Merge: 1997338 f60a20b
+Author: ColtScott <coltonscott0@yahoo.com>
+Date:   Sat Sep 18 18:02:40 2021 -0400
+
+    Merge branch 'main' of https://github.com/qi116/Hello_World_Hackathon
+    yes
+
+[33mcommit 1997338b6411d626bdee0775085018d147f1c3ef[m
+Author: ColtScott <coltonscott0@yahoo.com>
+Date:   Sat Sep 18 18:02:25 2021 -0400
+
+    changed logo
+
+[33mcommit f60a20b0ce66cff7934fc401d5d510fba1359494[m
+Author: masonsidran <msidran@purdue.edu>
+Date:   Sat Sep 18 17:52:43 2021 -0400
+
+    users can now only input numbers
+
+[33mcommit c85ee65a8b7227735090115f2bdf477eaba88421[m
+Author: ColtScott <coltonscott0@yahoo.com>
+Date:   Sat Sep 18 17:51:25 2021 -0400
+
+    added table format
+
+[33mcommit 7d1e8ff2cbb1e025de352a53cbcc3967fee24223[m
+Author: qi116 <qi116@purdue.edu>
+Date:   Sat Sep 18 17:47:30 2021 -0400
+
+    capped to two decimal points
+
+[33mcommit 343957f51b163d3ec36d7a5179aa68e5a4410a0c[m
+Author: ColtScott <coltonscott0@yahoo.com>
+Date:   Sat Sep 18 17:45:00 2021 -0400
+
+    changed color of some buttons
+
+[33mcommit c6b5b0c16f29a23f9a33ab52a243f60c6b6b29d9[m
+Author: qi116 <qi116@purdue.edu>
+Date:   Sat Sep 18 17:41:58 2021 -0400
+
+    removed extra input spot
+
+[33mcommit c86691b873f006e165af0b4e638dc0fa9ce1aa3a[m
+Merge: 25309d7 c2a47c5
+Author: qi116 <qi116@purdue.edu>
+Date:   Sat Sep 18 17:39:27 2021 -0400
+
+    finished formatting pie chart
+
+[33mcommit 25309d7a648e9b47952abb0c23e1f9d7c3f71b52[m
+Author: qi116 <qi116@purdue.edu>
+Date:   Sat Sep 18 17:32:37 2021 -0400
+
+    finished formatting for pie chart
+
+[33mcommit c2a47c5250024c97ef5b5444738e5d893a294909[m
+Merge: b214d6d 5f40bbc
+Author: ColtScott <coltonscott0@yahoo.com>
+Date:   Sat Sep 18 17:19:46 2021 -0400
+
+    Merge branch 'main' of https://github.com/qi116/Hello_World_Hackathon
+    yes
+
+[33mcommit b214d6dcfb8970781519e320a26270fff1d7eea5[m
+Author: ColtScott <coltonscott0@yahoo.com>
+Date:   Sat Sep 18 17:19:41 2021 -0400
+
+    added button changes
+
+[33mcommit 5f40bbc6258e42e45e7fdb9c21730f9e577dce97[m
+Merge: d12c2e4 f07bbdc
+Author: qi116 <qi116@purdue.edu>
+Date:   Sat Sep 18 16:26:26 2021 -0400
+
+    Merge branch 'main' of https://github.com/qi116/Hello_World_Hackathon into main
+
+[33mcommit d12c2e4f09ca99a922ab183a252fac164a8bde8c[m
+Author: qi116 <qi116@purdue.edu>
+Date:   Sat Sep 18 16:26:24 2021 -0400
+
+    added pie chart
+
+[33mcommit f07bbdccc594b390674eba38b6699efcbc407975[m
+Merge: c2b6ac5 aad953e
+Author: rafifi7 <rafeeadnan7@gmail.com>
+Date:   Sat Sep 18 16:01:44 2021 -0400
+
+    Merge branch 'main' of https://github.com/qi116/Hello_World_Hackathon
+
+[33mcommit c2b6ac5798ac5380b89a4aae3a366e6809ddb18e[m
+Author: rafifi7 <rafeeadnan7@gmail.com>
+Date:   Sat Sep 18 16:01:34 2021 -0400
+
+    config text changes
+
+[33mcommit aad953efac363982cd211bec5f8b68e6e20c465e[m
+Author: coltscott <83851807+coltscott@users.noreply.github.com>
+Date:   Sat Sep 18 15:41:47 2021 -0400
+
+    Updated readMe: reflects current + planned feature
+
+[33mcommit 20d306334b50b57ce9b552058ea3d0306b6d0c58[m
+Merge: 68eb267 ebf7cf6
+Author: qi116 <qi116@purdue.edu>
+Date:   Sat Sep 18 15:37:52 2021 -0400
+
+    Merge branch 'main' of https://github.com/qi116/Hello_World_Hackathon into main
+
+[33mcommit 68eb267544c9d588a936233cf1f174aea9aa9481[m
+Author: qi116 <qi116@purdue.edu>
+Date:   Sat Sep 18 15:37:47 2021 -0400
+
+    started pie chart
+
+[33mcommit ebf7cf60357385e777446c57bf7f69bc49721ca9[m
+Author: rafifi7 <rafeeadnan7@gmail.com>
+Date:   Sat Sep 18 15:21:41 2021 -0400
+
+    about us button moved to the very right
+
+[33mcommit 83ce112b3ee696bc1fd187be97226ed1c4c9544b[m
+Author: masonsidran <msidran@purdue.edu>
+Date:   Sat Sep 18 15:05:32 2021 -0400
+
+    added margin for nav bar elements
+
+[33mcommit aafd7d54841207c5c47fb26f8df6d2dfbc09819d[m
+Author: qi116 <qi116@purdue.edu>
+Date:   Sat Sep 18 14:59:44 2021 -0400
+
+    fixed logos and removed heading stuffs
+
+[33mcommit aee4b548418585f6d8b84d3ca685f0af87dd394f[m
+Merge: f78de2e 2cc09dc
+Author: qi116 <qi116@purdue.edu>
+Date:   Sat Sep 18 14:55:06 2021 -0400
+
+    Merge branch 'main' of https://github.com/qi116/Hello_World_Hackathon into main
+
+[33mcommit f78de2edcba74426d02c9242960ae37a76566412[m
+Author: qi116 <qi116@purdue.edu>
+Date:   Sat Sep 18 14:54:55 2021 -0400
+
+    literally nothing
+
+[33mcommit 2cc09dc7a728afc6db2d1166519a306e3605f6d7[m
+Merge: 0e108af ef33b42
+Author: masonsidran <msidran@purdue.edu>
+Date:   Sat Sep 18 14:50:24 2021 -0400
+
+    Merge branch 'main' of https://github.com/qi116/Hello_World_Hackathon
+
+[33mcommit 0e108afe72ce1cf1f98a4711e1d75b35f773b003[m
+Author: masonsidran <msidran@purdue.edu>
+Date:   Sat Sep 18 14:49:22 2021 -0400
+
+    added css styling for image and bottom margin
+
+[33mcommit ef33b422650d40c0f8de0ae6207204982b4fb4a9[m
+Author: rafifi7 <rafeeadnan7@gmail.com>
+Date:   Sat Sep 18 14:43:11 2021 -0400
+
+    h4 to h5
+
+[33mcommit 35b1c87c61964599d23cdee1028d271b4d43e1ac[m
+Merge: d89ccd3 4b14b4d
+Author: rafifi7 <rafeeadnan7@gmail.com>
+Date:   Sat Sep 18 14:42:00 2021 -0400
+
+    Merge branch 'main' of https://github.com/qi116/Hello_World_Hackathon
+
+[33mcommit d89ccd35f401ce091362bc6107f87866dfff04de[m
+Author: rafifi7 <rafeeadnan7@gmail.com>
+Date:   Sat Sep 18 14:41:43 2021 -0400
+
+    Colored text and background for config
+
+[33mcommit 4b14b4d4e8b5a877b70a38a273866015b9b63434[m
+Author: qi116 <qi116@purdue.edu>
+Date:   Sat Sep 18 14:40:55 2021 -0400
+
+    added logo
+
+[33mcommit b5515297a352b123b289165f7de783a8c1ac591c[m
+Author: qi116 <qi116@purdue.edu>
+Date:   Sat Sep 18 14:38:31 2021 -0400
+
+    h4
+
+[33mcommit aa3287b6c056f2b3d45737df57a863e534f91392[m
+Author: ColtScott <coltonscott0@yahoo.com>
+Date:   Sat Sep 18 14:37:55 2021 -0400
+
+    Updated png name
+
+[33mcommit 6ec124f95695d120075d1850558205ecbdfdb9c1[m
+Author: ColtScott <coltonscott0@yahoo.com>
+Date:   Sat Sep 18 14:36:16 2021 -0400
+
+    Added png logo
+
+[33mcommit 52f1ec002292324b1603ec2e239f2ecba0c1e993[m
+Author: masonsidran <msidran@purdue.edu>
+Date:   Sat Sep 18 14:32:00 2021 -0400
+
+    moved elements to the left
+
+[33mcommit 9f59708d88557b108e8fe6accab6943183a84126[m
+Author: qi116 <qi116@purdue.edu>
+Date:   Sat Sep 18 14:25:50 2021 -0400
+
+    Added spending
+
+[33mcommit b8480f5be8d8e02b686128a818a8823a395bc3f5[m
+Author: qi116 <qi116@purdue.edu>
+Date:   Sat Sep 18 14:11:23 2021 -0400
+
+    Added UI
+
+[33mcommit 3f1491fbc890a7c53d4efc3b81d5525454c5db91[m
+Author: qi116 <qi116@purdue.edu>
+Date:   Sat Sep 18 13:23:42 2021 -0400
+
+    added currency type dispaly
+
+[33mcommit 5dd34dfb50b3a7a145cfccb471f0cdc06fb3669a[m
+Merge: a170c50 2b4f121
+Author: rafifi7 <rafeeadnan7@gmail.com>
+Date:   Sat Sep 18 13:22:27 2021 -0400
+
+    dictionary spendingTypes
+
+[33mcommit a170c50b05d6e7e6623a1492e6309083b5141001[m
+Author: rafifi7 <rafeeadnan7@gmail.com>
+Date:   Sat Sep 18 13:15:46 2021 -0400
+
+    stinky
+
+[33mcommit 2b4f121edd4f010612e3bda6f4535f51ceec6883[m
+Author: qi116 <qi116@purdue.edu>
+Date:   Sat Sep 18 13:10:57 2021 -0400
+
+    added currency type
+
+[33mcommit 2a21b6a1e49964dc1027b35ab5cbbd36b9c66f03[m
+Merge: 0ff9fc0 9ecfee7
+Author: rafifi7 <rafeeadnan7@gmail.com>
+Date:   Sat Sep 18 12:56:45 2021 -0400
+
+    Merge branch 'main' of https://github.com/qi116/Hello_World_Hackathon
+
+[33mcommit 0ff9fc05fd167e88e4f877f9d6cccc8ae41bd5fc[m
+Author: rafifi7 <rafeeadnan7@gmail.com>
+Date:   Sat Sep 18 12:53:45 2021 -0400
+
+    idk randomt shit
+
+[33mcommit 9ecfee78cb77c4f35993cfd9345e3197e4e57413[m
+Author: qi116 <qi116@purdue.edu>
+Date:   Sat Sep 18 12:49:19 2021 -0400
+
+    Added add spending UI
+
+[33mcommit e4ce0ca76c9556866af3a4c634e0a7d6fa14e9c2[m
+Author: qi116 <qi116@purdue.edu>
+Date:   Sat Sep 18 12:38:19 2021 -0400
+
+    js update
+
+[33mcommit 0a433683cb1e742cc6b348b42410a66d5998cb02[m
+Author: qi116 <qi116@purdue.edu>
+Date:   Sat Sep 18 10:47:19 2021 -0400
+
+    added comment
+
+[33mcommit ee7855a58499a66736c3b97aa29884ccc978acb5[m
+Author: qi116 <qi116@purdue.edu>
+Date:   Sat Sep 18 10:18:54 2021 -0400
+
+    moved input to modal
+
+[33mcommit 72ecc8ba5a7cea3a61cf7ef8b31533a00a638d03[m
+Author: Santript <santript.sharma@gmail.com>
+Date:   Thu Sep 16 22:02:28 2021 -0400
+
+    Added a modal and configuration stuff
+
+[33mcommit 0f92b6ecfcb47b1b737f119154730a184f3821d8[m
+Author: qi116 <qi116@purdue.edu>
+Date:   Thu Sep 16 17:49:01 2021 -0400
+
+    Adding radios and income textbox
+
+[33mcommit dc585689718768f52c739121423a6710050b8111[m
+Author: qi116 <qi116@purdue.edu>
+Date:   Thu Sep 16 17:13:26 2021 -0400
+
+    Added Income input bar
+
+[33mcommit 93e8d82e6b8c40508f7ad022d1730f717d5cc49b[m
+Author: qi116 <qi116@purdue.edu>
+Date:   Thu Sep 16 17:01:04 2021 -0400
+
+    Connected Javascript file
+
+[33mcommit e0294eed88919c45196f8ef23e89d0423cedf265[m
+Author: qi116 <qi116@purdue.edu>
+Date:   Thu Sep 16 16:48:07 2021 -0400
+
+    Added CSS file
+
+[33mcommit e645c61cbec49e51f643b2c833e9f1bc136f8bf7[m
+Author: qi116 <qi116@purdue.edu>
+Date:   Thu Sep 16 16:45:25 2021 -0400
+
+    Added Navigation bar (bootstrap)
+
+[33mcommit 2844175831ffdea0ab9c331d2dc843aee99458b8[m
+Author: qi116 <qi116@purdue.edu>
+Date:   Thu Sep 16 16:24:33 2021 -0400
+
+    Brian did all the work
+
+[33mcommit 65b6b0bd22683f50f66c76e4dc139158719405f4[m
+Author: qi116 <89670897+qi116@users.noreply.github.com>
+Date:   Thu Sep 16 15:37:13 2021 -0400
+
+    Initial commit
